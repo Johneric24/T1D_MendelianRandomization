@@ -19,3 +19,4 @@ Summer 2024 research project titled "Transcriptome Wide Mendelian Randomization 
   * 09_Steiger
   * 11_SummaryFigure
   * 12_ReplicationEQTL
+  * 10_CSV_Writing
